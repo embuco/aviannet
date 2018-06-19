@@ -1,1 +1,9 @@
-place holder
+---
+Title: "AvianNet Civic day of Hacking" 
+---
+
+# 2018 Day of Civic Hacking (Sat. 11 Aug)
+
+![](AvianNet_logo.png)
+ 
+A civic hacking project to develop AI/ML workflow to detect aerial survey photos containing birds

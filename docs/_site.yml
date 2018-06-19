@@ -1,0 +1,14 @@
+name: "AvianNet"
+output_dir: "."
+navbar:
+  title: "AvianNet"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: simplex
+    highlight: tango
+    css: style.css
