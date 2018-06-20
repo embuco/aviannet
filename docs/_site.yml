@@ -1,18 +1,21 @@
-name: "AvianNet"
-output_dir: "."
+name: AvianNet
+output_dir: '.'
 navbar:
-  title: "AvianNet"
+  title: AvianNet
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Location"
-      href: Location.html
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+  - text: Location
+    href: Location.html
 output:
   html_document:
-    toc: true
-    toc_float: true
+    toc: yes
+    toc_float: yes
     theme: simplex
     highlight: tango
     css: style.css
+    lib_dir: site_libs
+    self_contained: no
+
