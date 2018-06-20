@@ -1,6 +1,5 @@
----
-title: "Location"
----
+# "Event Location"
+
 ## Location
 
 ## Directions

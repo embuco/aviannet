@@ -1,8 +1,9 @@
+title: AvianNet
 name: AvianNet
 output_dir: '.'
 navbar:
   title: AvianNet
-  left:
+  right:
   - text: Home
     href: index.html
   - text: About
@@ -11,8 +12,11 @@ navbar:
     href: Location.html
 output:
   html_document:
-    toc: no
-    toc_float: no
+    toc: TRUE
+    toc_float:
+      collapsed: TRUE
+      smooth_scroll: TRUE
+      print: FALSE
     theme: simplex
     highlight: tango
     css: style.css
