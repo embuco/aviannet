@@ -6,10 +6,17 @@ navbar:
   right:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
   - text: Location
     href: Location.html
+  - text: Background
+  - text: Methods
+  - text: Progress
+  - text: Resources
+  - text: Results
+  - text: About
+    href: about.html
+  - text: 1425
+    href: comic_inspiration.html
 output:
   html_document:
     toc: TRUE
@@ -19,6 +26,7 @@ output:
       print: FALSE
     theme: simplex
     highlight: tango
+
     css: style.css
     lib_dir: site_libs
     self_contained: no

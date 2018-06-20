@@ -1,9 +1,11 @@
 ---
-title: "Civic Day of Hacking" 
+pagetitle: AvianNet
 ---
+
+
 ![](AvianNet_logo.png)
  
-# 2018 Day of Civic Hacking <br> (Sat. 11 Aug)
+# 2018 Day of Civic Hacking Project <br> (Sat. 11 Aug)
 (last update 2018-06-20)
 
 A civic hacking project to develop AI/ML workflow to detect aerial survey photos containing birds.
@@ -18,4 +20,17 @@ It appears reasonable that with existing AI/ML techniques a workflow could be cr
 
 This webpage and it’s subpages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) about the day of civic hacking event, the follow up in the months after, and a landing page for final results.
 
-(ver. 0.0.0.9000)
+
+
+## Background
+
+## Existing Knowledge
+
+## Methods
+
+## Timeline
+
+## Conclusions
+
+
+<sub>2(ver. 0.0.0.9000)</sub>

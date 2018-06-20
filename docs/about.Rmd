@@ -1,5 +1,7 @@
 ---
-title: "About AvianNet"
+pagetitle: "About AvianNet"
 ---
 
+![](AvianNet_logo.png)
+ 
 Why this project is cool (and won't take over the world)

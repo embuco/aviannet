@@ -1,11 +1,34 @@
+---
+navbar:
+  pagetitle: Location
+---
+
+![](AvianNet_logo.png)
+ 
 # Event Location
 
+Plans are to hold the event at a local Bistro. Information will be updated when available.
+
 ## Location
+__TBD__
+
+
 
 ## Directions
+__TBD__
+
+Map insert when location determined
 
 ## Site Information
+__TBD__
+
+Link to menu?  Description.
 
 ## Date and Time
+* Date: Saturday 11 August 2018
+* Time: _TBD__
+
+
+Planning midmorning start winding up early evening. Feel free to come and go as you want. 
 
 ## Event day contacts
