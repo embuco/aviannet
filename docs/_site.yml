@@ -11,8 +11,8 @@ navbar:
     href: Location.html
 output:
   html_document:
-    toc: yes
-    toc_float: yes
+    toc: no
+    toc_float: no
     theme: simplex
     highlight: tango
     css: style.css
