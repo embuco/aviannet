@@ -17,3 +17,5 @@ With the increasing accessibility to remote sensing, the is a growing need to be
 It appears reasonable that with existing AI/ML techniques a workflow could be created to teach and execute an AI system to filter images from aerial surveys. To begin the work on this process members of the Patuxent US FWS and USGS Community will be host a Day of Civic Hacking on Saturday 11 August 2018.
 
 This webpage and it’s subpages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) about the day of civic hacking event, the follow up in the months after and a landing page for final results.
+
+(ver. 0.0.0.9000)
