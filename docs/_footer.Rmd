@@ -1,4 +1,6 @@
 
 <sub>(ver. `r current_version`)  Last Updated:`r Sys.time()`,  
-*Project GitHub repo:* http://github.aviannet.org </sub> 
+*Project GitHub repo:* http://github.aviannet.org 
+_[AvianNet is Genisys](https://en.wikipedia.org/wiki/Skynet_(Terminator))_ </sub> 
+
 
