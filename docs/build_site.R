@@ -1,11 +1,11 @@
-#Set our working directory.
-#This helps avoid confusion if our working directory is
-#not our site because of other projects we were
-#working on at the time.
+current_version <-"0.0.0.9000"
 wd = getwd()
+
+#Set our working directory.
 setwd(paste0(wd,"/docs"))
 
 #render your sweet site.
 rmarkdown::render_site(encoding = "utf-8")
 
 setwd(wd)
+rm(current_version)
