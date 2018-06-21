@@ -1,6 +1,5 @@
 ---
-navbar:
-  pagetitle: Location
+pagetitle: Location
 ---
 
 ![](AvianNet_logo.png)
