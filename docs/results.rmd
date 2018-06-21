@@ -1,6 +1,6 @@
+```{r, child ="_header.rmd"}
+```
 
-![](AvianNet_logo.png)
- 
 
 ```{r, child ="_footer.rmd"}
 ```

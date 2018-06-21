@@ -1,9 +1,8 @@
 ---
 pagetitle: Location
 ---
-
-![](AvianNet_logo.png)
- 
+```{r, child ="_header.rmd"}
+```
 # Event Location
 
 Plans are to hold the event at a local Bistro. Information will be updated when available.

@@ -1,8 +1,8 @@
 ---
 pagetitle: "About AvianNet"
 ---
-
-![](AvianNet_logo.png)
+```{r, child ="_header.rmd"}
+```
  
 Why this project is cool (and won't take over the world)
 
