@@ -1,3 +1,7 @@
+---
+pagetitle: Goals
+---
+
 ```{r, child ="_header.rmd"}
 ```
 
