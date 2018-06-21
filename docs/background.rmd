@@ -1,3 +1,7 @@
+---
+pagetitle: Background
+---
+
 ```{r, child ="_header.rmd"}
 ```
 

@@ -1,3 +1,7 @@
+---
+pagetitle: Progress
+---
+
 ```{r, child ="_header.rmd"}
 ```
 <!--
