@@ -10,9 +10,9 @@ pagetitle: AvianNet
 
 A civic hacking project to develop AI/ML workflow to detect aerial survey photos containing birds.
 
-## Introduction 
+(read time < 5mins)
 
-(time: <1 min)
+## Introduction 
 
 With the increasing accessibility to remote sensing, there is a growing need to be able to use artificial intelligence (AI) and machine learning (ML) techniques to aid in the processing and analysis of images. Cameras are being deployed with aerial bird surveys and producing gigabytes to terabytes of images. A first step in processing this data is the time consuming and tedious effort of sorting out pictures of empty terrain from those containing birds.
 
