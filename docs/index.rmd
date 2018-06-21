@@ -69,11 +69,11 @@ We are hoping to have access to some AI / ML resources.  Possible resources incl
 Well, this is the point of the Day of Civic Hacking.  Bring your hammers and wrenches, and we will figure it out. 
 
 Presently the Methodology is:
-1) Put a lot of smart people in a room together
-2) Point at shoe boxes of images
-3)  --Something happens--  (aka Hacking/Computer Stuff/Socializing)
-4) The machines start doing our work for us
-5) __Goal Reached:__ filtered images
+1. Put a lot of smart people in a room together
+2. Point at shoe boxes of images
+3.  --Something happens--  (aka Hacking/Computer Stuff/Socializing)
+4. The machines start doing our work for us
+5. __Goal Reached:__ filtered images
 
 ## Timeline
 * June 2018: First Steps
