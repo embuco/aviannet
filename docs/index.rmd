@@ -80,3 +80,4 @@ Presently the Methodology is:
 
 ```{r, child ="_footer.rmd"}
 ```
+
