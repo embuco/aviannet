@@ -1,0 +1,4 @@
+
+<sub>(ver. `r current_version`)  Last Updated:`r Sys.time()`,  
+*Project GitHub repo:* http://github.aviannet.org </sub> 
+

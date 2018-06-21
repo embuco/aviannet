@@ -6,17 +6,29 @@ navbar:
   right:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
   - text: Location
     href: Location.html
+  - text: Background
+    href: background.html
+  - text: Methods
+    href: methods.html
+  - text: Progress
+    href: progress.html
+  - text: Resources
+    href: resources.html
+  - text: Results
+    href: results.html
+  - text: About
+    href: about.html
+  - text: 1425
+    href: comic_inspiration.html
 output:
   html_document:
-    toc: TRUE
+    toc: yes
     toc_float:
-      collapsed: TRUE
-      smooth_scroll: TRUE
-      print: FALSE
+      collapsed: yes
+      smooth_scroll: yes
+      print: no
     theme: simplex
     highlight: tango
     css: style.css

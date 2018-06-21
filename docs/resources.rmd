@@ -1,0 +1,6 @@
+
+![](AvianNet_logo.png)
+ 
+
+```{r, child ="_footer.rmd"}
+```
