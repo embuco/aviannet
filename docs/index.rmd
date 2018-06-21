@@ -56,7 +56,7 @@ AI/ML techniques require teaching the machine what we see.  It is truly an educa
 We need to build a method to display reasonable size portions of large images to a user and allow the user to indicate whether (possibly where) they see birds and tie that tile/location back to the original image.  Most of our user and programmers are familiar with R so it may be a natural language for parts of this project.  Python for some aspects would be fine.  
 
 ### The Machine Uprising
-_The second goal is to set up an functioning process to filter images for us based on the training create from the first goal._
+_The second goal is to set up a functioning process to filter images based on the training set created from the first goal._
 
 #### For the non-hacker
 We want to be lazy and have the machines do our work for us.  
