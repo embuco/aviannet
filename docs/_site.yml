@@ -12,10 +12,10 @@ navbar:
     href: background.html
   - text: Goals
     href: goals.html
-  - text: Progress
-    href: progress.html
   - text: Resources
     href: resources.html
+  - text: Progress
+    href: progress.html
   - text: Results
     href: results.html
   - text: About
