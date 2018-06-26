@@ -1,4 +1,4 @@
-current_version <- "0.1.3.9004"
+current_version <- "0.2.0.9000" #Incorprating Emily S.'s suggestions
 wd = getwd()
 
 #Set our working directory.
@@ -9,3 +9,7 @@ rmarkdown::render_site(encoding = "utf-8", quiet = TRUE)
 
 setwd(wd)
 rm(current_version)
+
+#News
+#0.1.0 First Rough Draft
+#0.0.0 Framework
