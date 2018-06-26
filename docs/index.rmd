@@ -10,6 +10,8 @@ pagetitle: AvianNet
 
 A civic hacking project to develop AI/ML workflow to detect aerial survey photos containing birds.
 
+More location informatin will be availble [here](./Location.html).
+
 (read time < 5mins)
 
 ## Introduction 
@@ -20,7 +22,7 @@ It appears reasonable to develop a workflow for photo tagging to support aerial 
 
 This webpage and it’s sub-pages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) about the National Day of Civic Hacking event, the follow up in the months after, and a landing page for final results.
 
-
+Further explianation of the goals will be [here](./goals)
 
 ## Background
 ### National Day of Civic Hacking
@@ -42,6 +44,7 @@ In August 2017 a hackathon event was held at the [PWRC](https://www.pwrc.usgs.go
 
 (Description to be added)
 
+More background information can be found [here](./background.html)
 
 ## AvianNet Goals
 ### Comic Inspiration
@@ -67,6 +70,8 @@ We want to be lazy and have the machines do our work for us.
 #### For the hackers
 We are hoping to have access to some AI / ML resources to play with existing technologies.  Possibilities include (to be filled in as we are successful at borrowing/begging)
 
+More details on the project goals on the [goals page](./goals.html) and resoursces on the [resources page](./resources.html)
+
 ## Methods
 
 Well, this is the point of the National Day of Civic Hacking event.  Bring your hammers and wrenches, and we will figure it out. 
@@ -79,16 +84,23 @@ Presently the Methodology is:
 4. The machines start doing our work for us
 5. __Goal Reached:__ filtered images
 
+A subpage may be created as plans are flushed out.
+
 ## Timeline
 * June 2018: First Steps
 * July 4-11: Announce send out invites & webpage version 1 rollout
 * August 11: National Day of Civic Hacking
+* Autumn 2018: Follow up work
+
+See [progress page](./progress.html) for updates on project work.
 
 ## Results
 [Results](./results.html) from this project will be shared here when available.
 
 ## Contribute to this page
 This page is written in [R Markdown](https://rmarkdown.rstudio.com/) and hosted on [GitHub](https://github.com).  Please feel free to send suggestions of changes to Rob Fowler at robert_fowler@fws.gov or submit a pull request to https://github.com/robgf/aviannet. (For Githubbers, please fork and create a dev branch to be pulled.)
+
+More GitHub [guidlines here](./webpage_edits) (Incomplete)
 
 ```{r, child ="_footer.rmd"}
 ```
