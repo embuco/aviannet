@@ -34,7 +34,7 @@ The [National Day of Civic Hacking](https://www.codeforamerica.org/events/nation
 Some types of successful events from the past have been:
 
 * Hackathons: Events where people come in with ideas for an app and create prototypes at the event.
-* City Camps: Unconference events where people discuss the problems in their city and create the connections necessary to solve them
+* City Camps: Unconference _[sic]_ events where people discuss the problems in their city and create the connections necessary to solve them
 * Design Camps: Events where we use user-centered design to reimagine government services. 
 
 ### US FWS and USGS Patuxent 2017 Project
@@ -50,22 +50,22 @@ In August 2017 a hackathon event was held at the [PWRC](https://www.pwrc.usgs.go
 [more info](./comic_inspiration.html)
 
 ### Teach the Machine
-_Our primary goal is to develop a workflow for photo tagging to support aerial digital survey efforts and support AI/ML research efforts.Fcusing on an app/interface for humans to generate training sets of images for the AI/ML process._
+_Our primary goal is to develop a workflow for photo tagging to support aerial digital survey efforts and support AI/ML research efforts. Focusing on an app/interface for humans to generate training sets of images for the AI/ML process._
 
 #### For the non-hackers:
-AI/ML techniques require teaching the machine what we see.  It is truly an education by example.  We feed it lots of images and indicate which one contain targets (birds in this case) and which ones don't.  Through the magic of math and computer stuff, the AI learns which pictures contain targets and which don't. Our first goal is to construct a method for human viewers to annotate images as containing or not containing birds. This information will then be stored and given to ~~SkyNet~~ AvianNet to learn which images we humans would like to see and which to discard. 
+AI/ML techniques require teaching the machine what we see.  It is truly an education by example.  We feed it lots of images and indicate which one contains targets (birds in this case) and which ones don't.  Through the magic of math and computer stuff, the AI learns which pictures contain targets and which don't. Our first goal is to construct a method for human viewers to annotate images as containing or not containing birds. This information will then be stored and given to ~~SkyNet~~ AvianNet to learn which images we humans would like to see and which to discard. 
 
 #### For the hackers
-We need to build a method to display reasonable size portions of large images to a user and allow the user to indicate whether (possibly where) they see birds and tie that tile/location back to the original image.  Most of our user and programmers are familiar with R so it may be a natural language for parts of this project.  Python for some aspects would be fine.  
+We need to build a method to display reasonable size portions of large images to a user and allow the user to indicate whether (possibly where) they see birds and tie that tile/location back to the original image.  Most of our user and programmers are familiar with R so it may be a natural language for parts of this project.  Python would be suitable for some aspects.  
 
 ### The Machine Uprising
-_The stretch and forward looking goal is to set up a functioning process to filter images based on the training set created from the first goal._
+_The forward-looking stretch goal is to set up a functioning process to filter images based on the training set created from the first goal._
 
 #### For the non-hacker
 We want to be lazy and have the machines do our work for us.  
 
 #### For the hackers
-We are hoping to have access to some AI / ML resources to play with existing technologies.  Possible resources include (to be filled in as we are successful at borrowing/begging)
+We are hoping to have access to some AI / ML resources to play with existing technologies.  Possibilities include (to be filled in as we are successful at borrowing/begging)
 
 ## Methods
 
@@ -81,14 +81,14 @@ Presently the Methodology is:
 
 ## Timeline
 * June 2018: First Steps
-* July 4-11: Announce send out invites & webpage version 1 roll out
+* July 4-11: Announce send out invites & webpage version 1 rollout
 * August 11: National Day of Civic Hacking
 
 ## Results
 [Results](./results.html) from this project will be shared here when available.
 
 ## Contribute to this page
-This page is written in [R Markdown](https://rmarkdown.rstudio.com/) and hosted on [GitHub](https://github.com).  Please feel free to send suggestions of changes to Rob Fowler at robert_fowler@fws.gov or submit pull requests to https://github.com/robgf/aviannet. (For Githubbers, please fork and create a dev branch to be pulled.)
+This page is written in [R Markdown](https://rmarkdown.rstudio.com/) and hosted on [GitHub](https://github.com).  Please feel free to send suggestions of changes to Rob Fowler at robert_fowler@fws.gov or submit a pull request to https://github.com/robgf/aviannet. (For Githubbers, please fork and create a dev branch to be pulled.)
 
 ```{r, child ="_footer.rmd"}
 ```
