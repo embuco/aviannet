@@ -3,7 +3,7 @@ pagetitle: AvianNet
 ---
 ```{r, child ="_header.rmd"}
 ```
-# 2018 Day of Civic Hacking Project 
+# 2018 National Day of Civic Hacking Project 
 ## When: Sat. 11 Aug
 ## Where: __TBD__
 
@@ -16,15 +16,15 @@ A civic hacking project to develop AI/ML workflow to detect aerial survey photos
 
 With the increasing accessibility to remote sensing, there is a growing need to be able to use artificial intelligence (AI) and machine learning (ML) techniques to aid in the processing and analysis of images. Cameras are being deployed with aerial bird surveys and producing gigabytes to terabytes of images. A first step in processing this data is the time consuming and tedious effort of sorting out pictures of empty terrain from those containing birds.
 
-It appears reasonable that with existing AI/ML techniques a workflow could be created to teach and execute an AI system to filter images from aerial surveys. To begin the work on this process members of the Patuxent US FWS and USGS Community will host a Day of Civic Hacking on Saturday 11 August 2018.
+It appears reasonable that with existing AI/ML techniques a workflow could be created to teach and execute an AI system to filter images from aerial surveys. To begin the work on this process members of the Patuxent US FWS and USGS Community will host a National Day of Civic Hacking event on Saturday 11 August 2018.
 
-This webpage and it’s sub-pages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) about the day of civic hacking event, the follow up in the months after, and a landing page for final results.
+This webpage and it’s sub-pages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) about the National Day of Civic Hacking event, the follow up in the months after, and a landing page for final results.
 
 
 
 ## Background
-### Day of Civic Hacking
-[Code for America](https://www.codeforamerica.org), a "network of people making government work for the people, by the people, in the 21st century", annually encourages interested people to participate in a Day of Civic Hacking project.  
+### National Day of Civic Hacking
+[Code for America](https://www.codeforamerica.org), a "network of people making government work for the people, by the people, in the 21st century", annually encourages interested people to participate in a National Day of Civic Hacking project.  
 
 The [National Day of Civic Hacking](https://www.codeforamerica.org/events/national-day-of-civic-hacking) is a nationwide day of action to bring together civic leaders to work with our local governments to tackle some of our toughest challenges.
 
@@ -66,7 +66,7 @@ We are hoping to have access to some AI / ML resources.  Possible resources incl
 
 ## Methods
 
-Well, this is the point of the Day of Civic Hacking.  Bring your hammers and wrenches, and we will figure it out. 
+Well, this is the point of the National Day of Civic Hacking event.  Bring your hammers and wrenches, and we will figure it out. 
 
 Presently the Methodology is:
 
@@ -79,10 +79,10 @@ Presently the Methodology is:
 ## Timeline
 * June 2018: First Steps
 * July 4-11: Announce send out invites & webpage version 1 rollout
-* August 11: Day of Civic Hacking
+* August 11: National Day of Civic Hacking
 
 ## Results
-[Results](/aviannet/results.html) from this project will be shared here when available.
+[Results](./results.html) from this project will be shared here when available.
 
 ```{r, child ="_footer.rmd"}
 ```
