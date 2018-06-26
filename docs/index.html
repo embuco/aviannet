@@ -316,24 +316,27 @@ div.tocify {
 <div id="where-tbd" class="section level2">
 <h2>Where: <strong>TBD</strong></h2>
 <p>A civic hacking project to develop AI/ML workflow to detect aerial survey photos containing birds.</p>
-<p>(read time &lt; 5mins)</p>
+<p>More location informatin will be availble <a href="./Location.html">here</a>.</p>
+<p>(read time &lt; 10 mins)</p>
 </div>
 <div id="introduction" class="section level2">
 <h2>Introduction</h2>
 <p>With the increasing accessibility to remote sensing, there is a growing need to be able to use artificial intelligence (AI) and machine learning (ML) techniques to aid in the processing and analysis of images. Cameras are being deployed with aerial bird surveys and producing gigabytes to terabytes of images. A first step in processing this data is the time consuming and tedious effort of sorting out pictures of empty terrain from those containing birds.</p>
-<p>It appears reasonable that with existing AI/ML techniques a workflow could be created to teach and execute an AI system to filter images from aerial surveys. To begin the work on this process members of the Patuxent US FWS and USGS Community will host a National Day of Civic Hacking event on Saturday 11 August 2018.</p>
+<p>It appears reasonable to develop a workflow for photo tagging to support aerial digital survey efforts and support AI/ML research efforts. To begin the work on this process members of the Patuxent US FWS and USGS Community will host a National Day of Civic Hacking event on Saturday 11 August 2018.</p>
 <p>This webpage and it’s sub-pages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) about the National Day of Civic Hacking event, the follow up in the months after, and a landing page for final results.</p>
+<p>Further explanation of the goals will be <a href="./goals.html">here</a></p>
 </div>
 <div id="background" class="section level2">
 <h2>Background</h2>
 <div id="national-day-of-civic-hacking" class="section level3">
 <h3>National Day of Civic Hacking</h3>
+<p><sub> Following descriptions from [Code for America](<a href="https://www.codeforamerica.org" class="uri">https://www.codeforamerica.org</a> site </sub></p>
 <p><a href="https://www.codeforamerica.org">Code for America</a>, a “network of people making government work for the people, by the people, in the 21st century”, annually encourages interested people to participate in a National Day of Civic Hacking project.</p>
 <p>The <a href="https://www.codeforamerica.org/events/national-day-of-civic-hacking">National Day of Civic Hacking</a> is a nationwide day of action to bring together civic leaders to work with our local governments to tackle some of our toughest challenges.</p>
 <p>Some types of successful events from the past have been:</p>
 <ul>
 <li>Hackathons: Events where people come in with ideas for an app and create prototypes at the event.</li>
-<li>City Camps: Unconference events where people discuss the problems in their city and create the connections necessary to solve them</li>
+<li>City Camps: Unconference <em>[sic]</em> events where people discuss the problems in their city and create the connections necessary to solve them</li>
 <li>Design Camps: Events where we use user-centered design to reimagine government services.</li>
 </ul>
 </div>
@@ -341,6 +344,7 @@ div.tocify {
 <h3>US FWS and USGS Patuxent 2017 Project</h3>
 <p>In August 2017 a hackathon event was held at the <a href="https://www.pwrc.usgs.gov/">PWRC</a> with the goal of redesigning and modernizing the Harvest Survey website.</p>
 <p>(Description to be added)</p>
+<p>More background information can be found <a href="./background.html">here</a></p>
 </div>
 </div>
 <div id="aviannet-goals" class="section level2">
@@ -348,30 +352,31 @@ div.tocify {
 <div id="comic-inspiration" class="section level3">
 <h3>Comic Inspiration</h3>
 <p><img src="https://imgs.xkcd.com/comics/tasks.png" title="In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they&#39;d have the problem solved by the end of the summer. Half a century later, we&#39;re still working on it." /></p>
-<p><a href="/aviannet/comic_inspiration.html">more info</a></p>
+<p><sub> <a href="./comic_inspiration.html">more info about comic</a> </sub></p>
 </div>
 <div id="teach-the-machine" class="section level3">
 <h3>Teach the Machine</h3>
-<p><em>The first goal is to create a workflow and app/interface for humans to generate training sets of images for the AI/ML process.</em></p>
+<p><em>Our primary goal is to develop a workflow for photo tagging to support aerial digital survey efforts and support AI/ML research efforts. Focusing on an app/interface for humans to generate training sets of images for the AI/ML process.</em></p>
 <div id="for-the-non-hackers" class="section level4">
 <h4>For the non-hackers:</h4>
-<p>AI/ML techniques require teaching the machine what we see. It is truly an education by example. We feed it lots of images and indicate which one contain targets (birds in this case) and which ones don’t. Through the magic of math and computer stuff, the AI learns which pictsures contain targets and which don’t. Our first goal is to construct a method for human viewers to annotate images as containing or not containing birds. This information will then be stored and given to <del>SkyNet</del> AvianNet to learn which images we humans would like to see and which to discard.</p>
+<p>AI/ML techniques require teaching the machine what we see. It is truly an education by example. We feed it lots of images and indicate which one contains targets (birds in this case) and which ones don’t. Through the magic of math and computer stuff, the AI learns which pictures contain targets and which don’t. Our goal is to construct a method for human viewers to annotate images as containing or not containing birds. This information will then be stored and given to <del>SkyNet</del> AvianNet to learn which images we humans would like to see and which to discard.</p>
 </div>
 <div id="for-the-hackers" class="section level4">
 <h4>For the hackers</h4>
-<p>We need to build a method to display reasonable size portions of large images to a user and allow the user to indicate whether (possibly where) they see birds and tie that tile/location back to the original image. Most of our user and programmers are familiar with R so it may be a natural language for parts of this project. Python for some aspects would be fine.</p>
+<p>We need to build a method to display reasonable size portions of large images to a user and allow the user to indicate whether (possibly where) they see birds and tie that tile/location back to the original image. Most of our user and programmers are familiar with R so it may be a natural language for parts of this project. Python would be suitable for some aspects.</p>
 </div>
 </div>
 <div id="the-machine-uprising" class="section level3">
 <h3>The Machine Uprising</h3>
-<p><em>The second goal is to set up a functioning process to filter images based on the training set created from the first goal.</em></p>
+<p><em>The forward-looking stretch goal is to set up a functioning process to filter images based on the training set created from the first goal.</em></p>
 <div id="for-the-non-hacker" class="section level4">
 <h4>For the non-hacker</h4>
 <p>We want to be lazy and have the machines do our work for us.</p>
 </div>
 <div id="for-the-hackers-1" class="section level4">
 <h4>For the hackers</h4>
-<p>We are hoping to have access to some AI / ML resources. Possible resources include (to be filled in as we are successful at borrowing/begging)</p>
+<p>We are hoping to have access to some AI/ML resources to play with existing technologies. Possibilities include (to be filled in as we are successful at borrowing/begging)</p>
+<p>More details on the project goals on the <a href="./goals.html">goals page</a> and resoursces on the <a href="./resources.html">resources page</a></p>
 </div>
 </div>
 </div>
@@ -381,11 +386,12 @@ div.tocify {
 <p>Presently the Methodology is:</p>
 <ol style="list-style-type: decimal">
 <li>Put a lot of smart people in a room together</li>
-<li>Point at shoe boxes of images</li>
+<li>We point at shoe boxes of images</li>
 <li>–Something happens– (aka Hacking/Computer Stuff/Socializing)</li>
 <li>The machines start doing our work for us</li>
 <li><strong>Goal Reached:</strong> filtered images</li>
 </ol>
+<p>A subpage may be created as plans are flushed out.</p>
 </div>
 <div id="timeline" class="section level2">
 <h2>Timeline</h2>
@@ -393,13 +399,20 @@ div.tocify {
 <li>June 2018: First Steps</li>
 <li>July 4-11: Announce send out invites &amp; webpage version 1 rollout</li>
 <li>August 11: National Day of Civic Hacking</li>
+<li>Autumn 2018: Follow up work</li>
 </ul>
+<p>See <a href="./progress.html">progress page</a> for updates on project work.</p>
 </div>
 <div id="results" class="section level2">
 <h2>Results</h2>
 <p><a href="./results.html">Results</a> from this project will be shared here when available.</p>
+</div>
+<div id="contribute-to-this-page" class="section level2">
+<h2>Contribute to this page</h2>
+<p>This page is written in <a href="https://rmarkdown.rstudio.com/">R Markdown</a> and hosted on <a href="https://github.com">GitHub</a>. Please feel free to send suggestions of changes to Rob Fowler at <a href="mailto:robert_fowler@fws.gov">robert_fowler@fws.gov</a> or submit a pull request to <a href="https://github.com/robgf/aviannet" class="uri">https://github.com/robgf/aviannet</a>. (For Githubbers, please fork and create a dev branch to be pulled.)</p>
+<p>More GitHub <a href="./webpage_edits">guidlines here</a> (Incomplete)</p>
 <hr />
-<p><sub>(ver. 0.1.3.9004) Last Updated:2018-06-26 12:00:43,<br />
+<p><sub>(ver. 0.2.1) Last Updated:2018-06-26 14:10:59,<br />
 <em>Project GitHub repo:</em> <a href="https://github.com/robgf/aviannet" class="uri">https://github.com/robgf/aviannet</a></p>
 <p><a href="https://en.wikipedia.org/wiki/Skynet_(Terminator)"><em>AvianNet is Genisys</em></a> </sub></p>
 </div>
