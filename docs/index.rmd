@@ -22,7 +22,7 @@ It appears reasonable to develop a workflow for photo tagging to support aerial 
 
 This webpage and it’s sub-pages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) about the National Day of Civic Hacking event, the follow up in the months after, and a landing page for final results.
 
-Further explanation of the goals will be [here](./goals)
+Further explanation of the goals will be [here](./goals.html)
 
 ## Background
 ### National Day of Civic Hacking
@@ -50,7 +50,7 @@ More background information can be found [here](./background.html)
 ### Comic Inspiration
 ![](https://imgs.xkcd.com/comics/tasks.png "In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.")
 
-[more info](./comic_inspiration.html)
+<sub> [more info about comic](./comic_inspiration.html) </sub>
 
 ### Teach the Machine
 _Our primary goal is to develop a workflow for photo tagging to support aerial digital survey efforts and support AI/ML research efforts. Focusing on an app/interface for humans to generate training sets of images for the AI/ML process._
