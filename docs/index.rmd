@@ -12,7 +12,7 @@ A civic hacking project to develop AI/ML workflow to detect aerial survey photos
 
 More location informatin will be availble [here](./Location.html).
 
-(read time < 5mins)
+(read time < 10 mins)
 
 ## Introduction 
 
@@ -22,7 +22,7 @@ It appears reasonable to develop a workflow for photo tagging to support aerial 
 
 This webpage and it’s sub-pages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) about the National Day of Civic Hacking event, the follow up in the months after, and a landing page for final results.
 
-Further explianation of the goals will be [here](./goals)
+Further explanation of the goals will be [here](./goals)
 
 ## Background
 ### National Day of Civic Hacking
@@ -79,7 +79,7 @@ Well, this is the point of the National Day of Civic Hacking event.  Bring your 
 Presently the Methodology is:
 
 1. Put a lot of smart people in a room together
-2. Point at shoe boxes of images
+2. We point at shoe boxes of images
 3.  --Something happens--  (aka Hacking/Computer Stuff/Socializing)
 4. The machines start doing our work for us
 5. __Goal Reached:__ filtered images
