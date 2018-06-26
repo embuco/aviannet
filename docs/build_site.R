@@ -1,4 +1,4 @@
-current_version <- "0.2.0.9001" #Incorprating Emily S.'s suggestions
+current_version <- "0.2.0.9002" #Incorprating Emily S.'s suggestions
 wd = getwd()
 
 #Set our working directory.
