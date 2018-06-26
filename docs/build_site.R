@@ -1,4 +1,4 @@
-current_version <- "0.1.3.9003"
+current_version <- "0.1.3.9004"
 wd = getwd()
 
 #Set our working directory.
