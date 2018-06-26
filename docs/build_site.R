@@ -1,4 +1,4 @@
-current_version <- "0.2.0.9002" #Incorprating Emily S.'s suggestions
+current_version <- "0.2.1" #Now with Links
 wd = getwd()
 
 #Set our working directory.
@@ -11,6 +11,7 @@ setwd(wd)
 rm(current_version)
 
 # News
+# 0.2.1 - Little Cleaning, index has subpage liks in text flow
 # 0.2.0.9002 - Clean up and add sub-page links
 # 0.2.0.9001 - Added some navigation links to index page
 # 0.2.0.9000 - Changing focus to a Primarty goal of developing annotation workflow
