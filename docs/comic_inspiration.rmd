@@ -6,7 +6,7 @@ pagetitle: 1452
 ```
 
 # Comic Inspriation 
-Some of the inspiration for this project comes from [xkcd](https://xkcd.com) web comic.   Particully comic [#1452](https://xkcd.com/1425/)
+Some of the inspiration for this project comes from [xkcd](https://xkcd.com) web comic, particularly comic [#1452](https://xkcd.com/1425/)
 
 
 ![](https://imgs.xkcd.com/comics/tasks.png "In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.")
