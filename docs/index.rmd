@@ -3,31 +3,31 @@ pagetitle: AvianNet
 ---
 ```{r, child ="_header.rmd"}
 ```
-# 2018 National Day of Civic Hacking Project 
+# Photo tagging for aerial wildlife surveys: a 2018 National Day of Civic Hacking project 
 ## When: Sat. 11 Aug
-## Where: __TBD__
+## Where: National Wildlife Visitors' Center, 10901 Scarlet Tanager Loop, Laurel, MD 20708
 
 
-A civic hacking project to develop AI/ML workflow to detect aerial survey photos containing birds.
+We are hosting a civic hacking project to develop a photo tagging platform to suuport the development of an Artificial Intelligence/Machine Learning (AI/ML) workflow suitable for aerial survey photos of waterfowl and marine birds.
 
-More location informatin will be availble [here](./Location.html).
+More location information will be availble [here](./Location.html).
 
 (read time < 10 mins)
 
 ## Introduction 
 
-With the increasing accessibility to remote sensing, there is a growing need to be able to use artificial intelligence (AI) and machine learning (ML) techniques to aid in the processing and analysis of images. Cameras are being deployed with aerial bird surveys and producing gigabytes to terabytes of images. A first step in processing this data is the time consuming and tedious effort of sorting out pictures of empty terrain from those containing birds.
+Remote sensing technololgy has become increasingly cost-effective and accessible for wildlife data collection, but there remains a critical roadblock: the need to be able to use artificial intelligence (AI) and machine learning (ML) techniques to processing and analysis the large number of images that digital surveys would generate. Cameras deployed with aerial bird surveys produce terabytes of images. A first step in processing this data is the time consuming and tedious effort of sorting out pictures of empty terrain from those containing birds.
 
-It appears reasonable to develop a workflow for photo tagging to support aerial digital survey efforts and support AI/ML research efforts. To begin the work on this process members of the Patuxent US FWS and USGS Community will host a National Day of Civic Hacking event on Saturday 11 August 2018.
+Development Need #1: a workflow for photo sorting and tagging to support aerial digital survey efforts and AI/ML research efforts. To begin the work on this process members of the Patuxent US FWS and USGS Community will host a National Day of Civic Hacking event on Saturday 11 August 2018.
 
-This webpage and it’s sub-pages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) about the National Day of Civic Hacking event, the follow up in the months after, and a landing page for final results.
+This webpage and it’s sub-pages (cellphones see upper right) are intended to inform and coordinate interested humans (or nonhuman AI’s) for the National Day of Civic Hacking event, the follow-on work, and a landing page for final results.
 
-Further explanation of the goals will be [here](./goals.html)
+Further explanation of the goals can be found [here](./goals.html)
 
 ## Background
 ### National Day of Civic Hacking
 
-<sub> Following descriptions from [Code for America](https://www.codeforamerica.org site </sub>
+<sub> Following description comes from [Code for America](https://www.codeforamerica.org site. </sub>
 
 [Code for America](https://www.codeforamerica.org), a "network of people making government work for the people, by the people, in the 21st century", annually encourages interested people to participate in a National Day of Civic Hacking project.  
 
@@ -55,20 +55,14 @@ More background information can be found [here](./background.html)
 ### Teach the Machine
 _Our primary goal is to develop a workflow for photo tagging to support aerial digital survey efforts and support AI/ML research efforts. Focusing on an app/interface for humans to generate training sets of images for the AI/ML process._
 
-#### For the non-hackers:
-AI/ML techniques require teaching the machine what we see.  It is truly an education by example.  We feed it lots of images and indicate which one contains targets (birds in this case) and which ones don't.  Through the magic of math and computer stuff, the AI learns which pictures contain targets and which don't. Our goal is to construct a method for human viewers to annotate images as containing or not containing birds. This information will then be stored and given to ~~SkyNet~~ AvianNet to learn which images we humans would like to see and which to discard. 
+AI/ML techniques require teaching the machine what we see.  It is truly an education by example.  We feed it lots of images and indicate which one contains targets (birds in this case) and which ones don't.  Through the magic of math and computer stuff, the AI learns which pictures contain targets and which don't. Our goal is to construct a method for human viewers to annotate images. The initial development will focus on tagging photos that do and do not contain birds. The resulting photo sets can be used to create an algorithm to automatically identify images with targets (birds). 
 
-#### For the hackers
-We need to build a method to display reasonable size portions of large images to a user and allow the user to indicate whether (possibly where) they see birds and tie that tile/location back to the original image.  Most of our user and programmers are familiar with R so it may be a natural language for parts of this project.  Python would be suitable for some aspects.  
+Our goal is to build a method to display sections of large images to a user and allow the user to indicate whether (and possibly where) they see birds; these results then need to be summarized to classify the original image.  Most of our user and programmers are familiar with R, so it may be a natural language for parts of this project, while Python would also be suitable for some aspects.  
 
 ### The Machine Uprising
 _The forward-looking stretch goal is to set up a functioning process to filter images based on the training set created from the first goal._
 
-#### For the non-hacker
-We want to be lazy and have the machines do our work for us.  
-
-#### For the hackers
-We are hoping to have access to some AI/ML resources to play with existing technologies.  Possibilities include (to be filled in as we are successful at borrowing/begging)
+We want to be lazy and have the machines do our work for us. We are hoping to have access to some AI/ML resources to play with existing technologies.  Possibilities include ... (to be filled in as we are successful at borrowing/begging).
 
 More details on the project goals on the [goals page](./goals.html) and resoursces on the [resources page](./resources.html)
 
