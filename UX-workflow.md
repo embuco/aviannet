@@ -22,20 +22,38 @@ Team: Meghan E, Alli S, Pam G, Emily S
 16. How to handle images with lots of birds? depends on if that is the main type of photo or unusual event.
 17. Flock counts as estimate ... bound flock, sample pieces, click and count of sample = estimate of number
 18. Is it good to have a notes or comments feature?
-ID part of system:
-19. One large central image
-20. Maybe see smaller images of previous and next image (a la Flckr)
-21. Zoom, pan in zoom, rotate, contrast?
-22. Click and mark
-23. Can you select multiple
-24. Need a way to delete marks, might need marking to be more complicated than simple click (e.g., ctrl click)
-25. Thumbnail over mark (mark hides bird, need to see for annotation).
-26. Thumbnail appears on marking or with selection, thumbnail includes box for annotation
-27. Does annotation involve drop down? does drop down allow multiple selections if >1 bird? if free text, how to check?
-28. See Alli's GoMMAPPs Google map as example ....
+19. P/A system has click link to tiles with targets that were just found ... takes you to ID them
+ID part of system (available for tiles just identified with targets OR log in directly for experts):
+20. One large central image
+21. Maybe see smaller images of previous and next image (a la Flckr) or thumbnails at the bottom
+22. Zoom, pan in zoom, rotate, contrast?
+23. Click and mark
+24. Ability to select multiple simultaneously (hold and click)
+24b. Ability to annotate multiple simultaneously
+25. Need a way to delete marks, might need marking to be more complicated than simple click (e.g., ctrl click)
+26. Thumbnail over mark (mark hides bird, need to see for annotation ... roll over or select mark somehow).
+26b. Also need numbered list on the side so you can select marked targets that way (might be way to select multiple and annotate multiple simultaneously)
+27. Thumbnail appears on marking or with selection, thumbnail includes box for annotation and trash can for delete
+28. Does annotation involve drop down? does drop down allow multiple selections if >1 bird? if free text, how to check? ... free code with hotkeys
+29. See Alli's GoMMAPPs Google map as example ....
+Can single marks indicate multiple targets? 
+Note: users might be experts for certain species or surveys only, # of times photo reviewed depends on measured observer level
 
 Data issues:
 Table with session info
 Table with photo info linked to session
 Table with target info linked to photo and session
 Table of observer info
+...
+Table of photos
+Table of observers
+Table of targets on photos ...depends on observer and session
+Session info for each observer
+Effort info for target
+
+Photo management:
+First photo view reads full image, image is tiled locally
+Tiles are saved to system
+Further photo review is on individual tiles OR full photos recreated from tiles
+Ultimately: system stores only tiles
+Database has info about tiles
